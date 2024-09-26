@@ -3,7 +3,7 @@
 
 # Awwwards animation Menu
 
-https://finance-manager-mu-seven.vercel.app/
+[Visit](https://menu-awwwards-animation.vercel.app/)
 
 ## Description
 I created an animated menu inspired by the design showcased on [Pranav Suresh's website](https://www.pranavsuresh.com/) featured on [Awwwards](https://Awwwards.com). The menu incorporates smooth transitions and engaging animations, enhancing the user experience and providing a modern aesthetic. 
