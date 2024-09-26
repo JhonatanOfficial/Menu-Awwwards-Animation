@@ -1,4 +1,4 @@
-![Imagem do Aplicativo](/app.png)
+![Imagem do Aplicativo](/public/app.png)
 
 
 # Awwwards animation Menu
